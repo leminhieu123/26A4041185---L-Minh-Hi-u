@@ -82,7 +82,7 @@ class CoreWidgetsDemo extends StatelessWidget {
                   child: Icon(Icons.person, color: Colors.white),
                 ),
                 title: Text(
-                  'Flutter Developer',
+                  'Lê Minh Hiếu - 26A4041185',
                   style: TextStyle(fontWeight: FontWeight.bold),
                 ),
                 subtitle: Text('Learning Flutter Core Widgets'),

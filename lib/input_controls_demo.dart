@@ -98,15 +98,15 @@ class _InputControlsDemoState extends State<InputControlsDemo> {
                 child: const Column(
                   children: [
                     RadioListTile<String>(
-                      title: Text('Option A'),
+                      title: Text('Action'),
                       value: 'Option A',
                     ),
                     RadioListTile<String>(
-                      title: Text('Option B'),
+                      title: Text('Comedy'),
                       value: 'Option B',
                     ),
                     RadioListTile<String>(
-                      title: Text('Option C'),
+                      title: Text('Horror'),
                       value: 'Option C',
                     ),
                   ],
